@@ -87,6 +87,7 @@ function promptUser() {
                     strOut = '';
                     strOut += 'Item ID: ' + data[i].item_id + '  //  ';
                     strOut += 'Product Name: ' + data[i].product_name + '  //  ';
+                    strOut += 'Quantity: ' + data[i].stock_quantity + ' // '
                     strOut += 'Price: $' + data[i].price + '  \n  ';
 
                     console.log(strOut);
