@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehager77/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehager77/bamazon/issues"
+  },
+  "homepage": "https://github.com/ehager77/bamazon#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "cli-table": "^0.3.1",
+    "clui": "^0.3.6",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
+}
