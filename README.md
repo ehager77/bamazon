@@ -20,7 +20,7 @@ To run:
 
 Watch demo here:
 
-![alt text] (https://media.giphy.com/media/XbPRxJLx36pAuneXZ4/giphy.gif)
+![alt text](http://media.giphy.com/media/XbPRxJLx36pAuneXZ4/giphy.gif)
 
 ## Manager Interface
 
@@ -40,6 +40,6 @@ To run:
 
 Watch demo: 
 
-![alt text] (https://media.giphy.com/media/SvcCTVM07xuO4GExmy/giphy.gif)
+![alt text](https://media.giphy.com/media/SvcCTVM07xuO4GExmy/giphy.gif)
 
 
